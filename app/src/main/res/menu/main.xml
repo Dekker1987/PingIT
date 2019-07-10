@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.pingit.MainActivity" >
+
+    <item
+        android:id="@+id/mi_pause_ping"
+        android:orderInCategory="200"
+        android:title="Pause Ping"/>
+
+    <item
+        android:id="@+id/mi_continue_ping"
+        android:orderInCategory="200"
+        android:title="Continue Ping"/>
+
+    <item
+        android:id="@+id/mi_expand"
+        android:orderInCategory="200"
+        android:title="Show Statistic"/>
+
+    <item
+        android:id="@+id/mi_ping_prop"
+        android:orderInCategory="200"
+        android:title="Ping Properties"/>
+</menu>

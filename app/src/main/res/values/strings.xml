@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PingIT</string>
+    <string name="crash_message_header">Error</string>
+</resources>
